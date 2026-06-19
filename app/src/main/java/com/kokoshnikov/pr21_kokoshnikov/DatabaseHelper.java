@@ -1,4 +1,4 @@
-package com.abdulaziz.pr21_kokoshnikov;
+package com.kokoshnikov.pr21_kokoshnikov;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
