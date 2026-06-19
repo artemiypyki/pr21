@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "com.abdulaziz.pr21_mirzakamilov_pr23103"
+    namespace = "com.kokoshnikov.pr21_kokoshnikov"
     compileSdk {
         version = release(36) {
             minorApiLevel = 1
@@ -11,7 +11,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.abdulaziz.pr21_mirzakamilov_pr23103"
+        applicationId = "com.kokoshnikov.pr21_kokoshnikov"
         minSdk = 31
         targetSdk = 36
         versionCode = 1
